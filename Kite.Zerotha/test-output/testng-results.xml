@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-14T01:27:58 IST" name="Default suite" finished-at="2022-01-14T01:28:18 IST" duration-ms="19924">
+    <groups>
+    </groups>
+    <test started-at="2022-01-14T01:27:58 IST" name="Default test" finished-at="2022-01-14T01:28:18 IST" duration-ms="19924">
+      <class name="Zerodha.Automatezerodha">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:Zerodha.Automatezerodha@506ae4d4]" started-at="2022-01-14T01:27:58 IST" name="launchbrowser" finished-at="2022-01-14T01:28:09 IST" duration-ms="10106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="checkpage()[pri:0, instance:Zerodha.Automatezerodha@506ae4d4]" started-at="2022-01-14T01:28:09 IST" name="checkpage" finished-at="2022-01-14T01:28:18 IST" duration-ms="9314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpage -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:Zerodha.Automatezerodha@506ae4d4]" started-at="2022-01-14T01:28:18 IST" name="screenshot" finished-at="2022-01-14T01:28:18 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+      </class> <!-- Zerodha.Automatezerodha -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
